@@ -1,0 +1,4 @@
+projeto/exemples/cluster-gke/module/keys.json
+projeto/exemples/cluster/.terraform/
+projeto/exemples/cluster/.terraform.lock.hd
+projeto/exemples/cluster/terraform.tfstate.backup
