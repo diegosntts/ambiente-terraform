@@ -1,4 +1,5 @@
 cluster-gke/module/keys.json
 cluster-gke/.terraform
-cluster-gke/.terraform.lock.hd
 cluster-gke/terraform.tfstate.backup
+cluster-gke/terraform.tfstate
+cluster-gke/.terraform.lock.hcl
